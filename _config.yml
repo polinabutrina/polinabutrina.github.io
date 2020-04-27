@@ -1,9 +1,10 @@
 # main text of home
 name: Polina Butrina
-bio: Testing things
+bio: Hi! I'm Polina, a Transporation Plangineer and a Data Analyst living in Seattle.
+
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A data analyst with deep transportation background
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,9 +13,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+#resume: false
+#resume-external: true
+#resume-url: https://google.com/?q=my+resume
 
 url: https://koppl.in/indigo
 # your url: https://USERNAME.github.io
@@ -34,23 +35,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: torrentialSEA
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: polinabutrina
 # youtube: myyoutube
-# spotify: myspotify
-github: mygithub
+# spotify: myspotif
+github: polinabutrina
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: polinabutrina@gmail.com
 
 authors:
   johndoe:
@@ -69,7 +70,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
@@ -80,11 +81,11 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -99,12 +100,12 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+#show-author: true
 
 # do you want some animations?
 animation: true
 
-# add default values to specific pages or layouts
+# add default values tSo specific pages or layouts
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
